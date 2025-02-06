@@ -1,0 +1,15 @@
+html{
+    background-color:pink;
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    background-color: beige;
+    color: rgb(146, 14, 14);
+    font-size: 30;
+    text-align: center;
+}
+body {
+    background-image: url("ribbon.jpg");
+    padding: 50px;
+}
